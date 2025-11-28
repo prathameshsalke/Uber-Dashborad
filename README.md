@@ -10,6 +10,7 @@ This Power BI Dashboard provides end-to-end analytics on ride operations, revenu
 The dashboard is built using a clean, modular, and interactive design, making it easy for users to navigate and extract meaningful insights.
 
 **🔑 Key Features**
+
 1️⃣ Ride Analysis
 
 Total rides, completed trips, and cancellations
