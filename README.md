@@ -1,4 +1,4 @@
-##🚖 Uber Power BI Dashboard##
+**🚖 Uber Power BI Dashboard**
 Project – Analyze Ride Patterns, Revenue Trends & Customer Insights
 
 Take your data analytics skills to the next level with this professionally designed Uber Power BI Dashboard Project.
